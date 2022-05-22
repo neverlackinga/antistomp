@@ -10,3 +10,4 @@
 						game.ReplicatedStorage.MainEvent:FireServer("Stomp")
 					end
 				end
+end);
